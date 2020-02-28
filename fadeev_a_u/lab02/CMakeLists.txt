@@ -1,1 +1,1 @@
-include_directories(lab01)
+add_subdirectory(lab02)

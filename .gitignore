@@ -21,3 +21,8 @@ fadeev_a_u/lab02/.vs/lab02/v16/.suo
 fadeev_a_u/lab02/lab02/pic_bad.jpeg
 fadeev_a_u/lab02/lab02/pic_good.jpeg
 fadeev_a_u/lab01/lab01/Source.cpp
+*.opendb
+fadeev_a_u/lab03/.vs/lab03/v16/.suo
+*.bin
+*.c
+*.check_cache
