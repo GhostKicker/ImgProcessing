@@ -1,5 +1,6 @@
 #include <vector>
 #include <iostream>
+#include <bits/stdc++.h>
 #include <opencv2/opencv.hpp>
 
 using namespace cv;
