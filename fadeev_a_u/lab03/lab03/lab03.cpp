@@ -29,7 +29,6 @@ int main() {
 
     auto hist = get_hist(pic);
 
-
     Mat histviz = Mat::zeros(256, 256, CV_8U);
     for (int col = 0; col < (int)hist.size(); ++col) {
         for (int row = 0; row < hist[col]; ++row) {
